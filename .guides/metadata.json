@@ -1,0 +1,156 @@
+{
+ "sections": [
+  {
+   "id": "eb49fdc-3943-f127-5882-d6345ab198fc",
+   "title": "Overview",
+   "files": [],
+   "layout": "2-panels-tree",
+   "path": [
+    "Lesson6_Assignment",
+    "Lesson6_Quizzes",
+    ".guides"
+   ],
+   "type": "markdown",
+   "content-file": ".guides/content/Overview-eb49.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7e897b-b707-919d-b1d0-6f6f6c9db81e",
+   "title": "Grading Rubric",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Grading-Rubric-7e89.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a3cd9f9d-b086-a97d-3246-ecb5419a8d4b",
+   "title": "Setup Instructions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Setup-Instructions-a3cd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a570e4b7-7e25-90d2-c8f0-1ef7f6aa411",
+   "title": "-- Step 1 (getElementById)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/---Step-1--getElementById--a570.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f264aea2-984b-2245-c18c-7b95d45b3a6",
+   "title": "-- Step 2 (getElementsByTagName)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/---Step-2--getElementsByTagName--f264.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "f3b4b26-7160-fa51-d3fe-d001e0c04bb9",
+   "title": "-- Step 3 (populateFigures)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/---Step-3--populateFigures--f3b4.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "55a51ee8-cf40-9600-ad04-98fcd3e1bac4",
+   "title": "-- Quiz 1",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/---Quiz-1-55a5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4b6a6455-6f45-c940-181c-3b667076a70b",
+   "title": "-- Step 4 (createElement)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/---Step-4--createElement--4b6a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e5ef3cee-8186-5c57-9b04-cd1fc7f7ae90",
+   "title": "-- Step 5 (appendChild)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/---Step-5--appendChild--e5ef.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "bd3b9b70-9e2f-fcf5-daca-846330bb36c6",
+   "title": "-- Step 6 (cloneNode)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/---Step-6--cloneNode--bd3b.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "3aaf120d-5fbb-4951-c124-e9a32b2cd52f",
+   "title": "-- Quiz 2",
+   "files": [],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/---Quiz-2-3aaf.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "7573ff73-55b9-b1c5-583b-3c428a21230",
+   "title": "-- Step 7 (zoomFig)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/---Step-7--zoomFig--7573.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2f2ae418-9f49-a61e-c0b6-bfe7d4468edf",
+   "title": "-- Step 8 (close window)",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/---Step-8--close-window--2f2a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "paper",
+ "scripts": [],
+ "lexikonTopic": ""
+}

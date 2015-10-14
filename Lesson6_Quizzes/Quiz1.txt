@@ -1,0 +1,15 @@
+Title:  Quiz #1
+
+Instructions:  
+The questions do NOT pertain directly to the "Photo Gallery Application", but instead apply to concepts learned in Lesson 6 and this assignment.  Answer the  questions by including your answers in the "Quiz1.txt" file:
+_________________________________________________________________________
+
+Questions:
+
+1.  What statement would you use to create a variable name "logo" and assign as its value a reference to the element with the "id" value "logoImage"?
+
+
+
+
+
+2.  What statement would you use to create a variable named "firstPriority" and assign as its value a reference to the first "li" element in the document?
