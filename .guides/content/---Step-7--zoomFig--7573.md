@@ -16,7 +16,7 @@ window.open(url, name, options, replace);
 <b><em>url</em></b>:  Represents the web address or filename to be opened<br>
 <b><em>name</em></b>:  Assigns a value to the <em>name</em> property of the new <code>Window</code> object<br>
 <b><em>options</em></b>:  Represents a string that allows you to customize the new web browser window's appearance<br>
-<b><em>replace</em></b>:  A Boolean value that determines whether the URL should create a new entry in the web browser's history list (true) or replace the existing entry <false); if not specified, false is the default value<br>
+<b><em>replace</em></b>:  A Boolean value that determines whether the URL should create a new entry in the web browser's history list (true) or replace the existing entry (false); if not specified, false is the default value<br>
 
 <b>Example:</b>  To display the information about a specific printer in a new window, you might use the following code:
 <pre>>

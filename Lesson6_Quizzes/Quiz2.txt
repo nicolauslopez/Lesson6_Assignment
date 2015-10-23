@@ -8,8 +8,9 @@ Questions:
 
 1.  Name two methods you can use to add a node to the DOM tree, and explain the difference between them.
 
-
+appendChild create a element and then append it to the the HTML document and cloneNode you can clone a node and insert it where needed
 
 
 
 2.  List the six main objects that make up the browser object model. 
+Window Objects, Navigator Objects, Document Objects, History Objects, History Objects, Location Objects, Screen Objects
